@@ -1,5 +1,5 @@
 {
-    "name": "aliyunsms-weimeng-use/microdreams",
+    "name": "aliyunsms/microdreams",
     "description": "microdreams use aliyunsms send text message",
     "require": {
         "php": ">=5.6.4",
