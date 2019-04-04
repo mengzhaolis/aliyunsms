@@ -2,7 +2,6 @@
     "name": "aliyunsms/aliyunsms",
     "description": "microdreams use aliyunsms send text message",
     "require": {
-        "php": ">=5.6.4",
-        "another-vendor/package": "1.0"
+        
     }
 }
